@@ -619,7 +619,7 @@ main {
 }
 @media screen and (max-width: 600px) {
   header nav ul li a {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 </style>
