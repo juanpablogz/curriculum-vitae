@@ -15,7 +15,10 @@
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^5.0.0",
     "pug": "^3.0.2",
-    "pug-plain-loader": "^1.1.0"
+    "pug-plain-loader": "^1.1.0",
+    "sass-loader": "^11.0.1"
   }
 }
