@@ -90,14 +90,14 @@
             <i class="fab fa-bootstrap" title="Bootstrap"></i>
           </div>
           <div class="skills">
-            <div>
+            <!-- <div>
               <h2>Software</h2>
               <ul>
                 <li>Excel</li>
                 <li>Word</li>
                 <li>PowerPoint</li>
               </ul>
-            </div>
+            </div> -->
             <div>
               <h2 style="padding: 0px 25px 0px 20px;">Lenguajes de programación</h2>
               <ul>
@@ -110,12 +110,12 @@
               <ul>
                 <li>Vuejs. Conocimiento medio-alto</li>
                 <li>Quasar. Conocimiento medio-alto</li>
-                <li>Ruby On Rails. Conocimiento Basico</li>
-                <li>Node + Express. Conocimiento Básico</li>
+                <li>Rails. Conocimiento Basico</li>
+                <!-- <li>Node + Express. Conocimiento Básico</li> -->
               </ul>
             </div>
             <div>
-              <h2>estilos</h2>
+              <h2 style="padding: 0px 25px 0px 20px;">estilos</h2>
               <ul>
                 <li>CSS. Conocimiento medio-alto</li>
                 <li>bootstrap. Conocimiento medio</li>
@@ -123,14 +123,14 @@
               </ul>
             </div>
             <div>
-              <h2>Bases de datos</h2>
+              <h2 style="padding: 0px 25px 0px 20px;">Bases de datos</h2>
               <ul>
                 <li>PostgreSQL Conocimiento basico-medio</li>
                 <li>MySql. Conocimiento básico-medio</li>
               </ul>
             </div>
             <div>
-              <h2>Despligue</h2>
+              <h2 style="padding: 0px 25px 0px 20px;">Despligue</h2>
               <ul>
                 <li>Netlify. Conocimiento medio</li>
                 <li>Vercel. Conocimiento medio</li>
@@ -615,11 +615,6 @@ main {
         grid-template-columns: repeat(4, 1fr);
       }
     }
-  }
-}
-@media screen and (max-width: 600px) {
-  header nav ul li a {
-    font-size: 12px;
   }
 }
 </style>
