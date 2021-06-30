@@ -209,8 +209,8 @@ export default {
         {
           name: "31Rooms",
           description:
-            "Desarrollador front end con vuejs, desarrollo de diversos proyectos con tecnologias como vuejs, nuxt y quasar. Proyectos como estrellarestaurante que es un listado de productos de un restaurante el cual puedes seleccionar segun preferencia y añadirle variantes, despues tienes las opciones de escoger el medio de pago y para finalizar el software te redirigue a whatsapp con un mensaje personalizado de tu pedido, sincelove que es un proyecto de citas en el cual me encargo del front end",
-          date: "noviembre de 2020 - Presente"
+            "Desarrollador front end con vuejs, desarrollo de diversos proyectos con tecnologias como vuejs, nuxt y quasar. Proyectos como estrellarestaurante que es un listado de productos de un restaurante el cual puedes seleccionar segun preferencia y añadirle variantes, despues tienes las opciones de escoger el medio de pago y para finalizar el software te redirigue a whatsapp con un mensaje personalizado de tu pedido, sincelove que es un proyecto de citas en el cual ayude en el front end realizando diversos componenete en los cuales el más destacado fue la sección de video llamada",
+          date: "noviembre de 2020 - junio de 2020"
         }
       ]
     };
